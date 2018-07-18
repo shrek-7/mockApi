@@ -10,16 +10,6 @@
     "desc": "postDescription",
     "createdBy": "ownerName",
     "date": "createdDate"
-    },{
-    "title":"postTitle",
-    "desc": "postDescription",
-    "createdBy": "ownerName",
-    "date": "createdDate"
-    },{
-    "title":"postTitle",
-    "desc": "postDescription",
-    "createdBy": "ownerName",
-    "date": "createdDate"
     }
   ]
 }
